@@ -5,8 +5,8 @@
 //ESCOM-IPN
 //Equipo: LOS TOSTADOS
 //Algoritmo: Decodificaciónde Huffman
-//Compilación: "gcc descomprension.c EstructurasDes.c tiempo.x  -o desc" (tiempo.c si se tiene la implementación de la libreria o tiempo.o si solo se tiene el codigo objeto)
-//Ejecución: "./desc formato de guardado del archivo" (Linux y MAC OS)
+//Compilación: "gcc Decompression.c EstructurasDes.c tiempo.x -o d.exe" (tiempo.c si se tiene la implementación de la libreria o tiempo.o si solo se tiene el codigo objeto)
+//Ejecución: "./d.exe formato de guardado del archivo" (Linux y MAC OS)
 //*****************************************************************
 
 //*****************************************************************

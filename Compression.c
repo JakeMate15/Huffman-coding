@@ -5,8 +5,8 @@
 //ESCOM-IPN
 //Equipo: LOS TOSTADOS
 //Algoritmo: Codificación voraz de Huffman
-//Compilación: "gcc huffman.c Estructuras.c tiempo.x  -o huffman" (tiempo.c si se tiene la implementación de la libreria o tiempo.o si solo se tiene el codigo objeto)
-//Ejecución: "./huffman ruta_y_nombre_archivo" (Linux y MAC OS)
+//Compilación: "gcc Compression.c Estructuras.c tiempo.x -o Compression.exe" (tiempo.c si se tiene la implementación de la libreria o tiempo.o si solo se tiene el codigo objeto)
+//Ejecución: "./Compression.exe ruta_y_nombre_archivo" (Linux y MAC OS)
 //*****************************************************************
 
 //*****************************************************************
